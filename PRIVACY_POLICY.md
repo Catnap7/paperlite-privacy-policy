@@ -30,7 +30,7 @@ When you tap Share, Android lets you choose another app or destination. The sele
 
 ## Ads And Third-Party Services
 
-PaperLite uses Google AdMob to display ads. AdMob may collect data such as device identifiers, advertising identifiers, approximate location inferred by Google, app activity related to ad views or interactions, diagnostics, and other information described by Google's advertising and data policies.
+PaperLite uses Google AdMob to display ads. AdMob may collect data such as IP address, device identifiers, advertising identifiers, approximate location inferred by Google, app activity related to ad views or interactions, diagnostics, and other information described by Google's advertising and data policies.
 
 Where required, PaperLite may show Google-provided consent or privacy options forms before requesting ads. These forms are provided by Google and are used to help manage advertising consent choices.
 
